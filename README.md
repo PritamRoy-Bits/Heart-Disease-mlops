@@ -4,8 +4,6 @@ End-to-end ML pipeline for the UCI Heart Disease (Cleveland) dataset: data
 acquisition, EDA, feature engineering, model training with MLflow tracking,
 automated testing/CI, and a Dockerized FastAPI serving layer.
 
-> Cloud/Kubernetes deployment is intentionally out of scope for this stage.
-
 ## Project layout
 
 ```
