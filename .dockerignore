@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+logs/
+data/raw/*.csv
+.git/
+.github/
+tests/
+notebooks/
+reports/

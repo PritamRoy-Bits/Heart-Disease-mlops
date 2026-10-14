@@ -1,0 +1,2 @@
+logistic_regression
+{'test_accuracy': 0.8688524590163934, 'test_precision': 0.8125, 'test_recall': 0.9285714285714286, 'test_roc_auc': 0.95995670995671, 'cv_best_roc_auc': np.float64(0.9078629100368232)}
